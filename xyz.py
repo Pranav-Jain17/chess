@@ -1,1 +1,2 @@
-print("Pranav jain")
+print("Pranav")
+print("jain")
